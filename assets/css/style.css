@@ -1,7 +1,14 @@
-.behind-scenes {
-    background: url("https://www.google.com/imgres?imgurl=http%3A%2F%2Fwww.addisoncsd.org%2Fcms%2Flib%2FNY01913493%2FCentricity%2FDomain%2F22%2FTech%2520in%2520your%2520hands.jpg&imgrefurl=http%3A%2F%2Fwww.addisoncsd.org%2Fdomain%2F22&docid=OolYr9SCE_akUM&tbnid=zwJs-_8mfo0jUM%3A&vet=10ahUKEwj1iKOumNXeAhUzMn0KHb1LDk8QMwhAKAAwAA..i&w=500&h=353&bih=773&biw=1076&q=tech%20world%20in%20hands&ved=0ahUKEwj1iKOumNXeAhUzMn0KHb1LDk8QMwhAKAAwAA&iact=mrc&uact=8");
-}
-
 body {
     opacity: 0.5;
+    background-image: url("file:///Users/zack/Desktop/UCB/portfolio/assets/css/assets/images/lamp.jpg");
+    background-repeat: none;
+}
+
+#photo {
+    width: 33%;
+    height: 20%;
+}
+
+p {
+    text-align: center;
 }
